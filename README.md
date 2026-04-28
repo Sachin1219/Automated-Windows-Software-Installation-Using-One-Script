@@ -101,7 +101,7 @@ Observability (GUI + logs)
 📺 Video Explanation
 
 Watch full breakdown on YouTube:
-👉 [ADD YOUR VIDEO LINK HERE]
+👉https://youtu.be/Mhd-r36cv9Y
 
 🙌 Support
 
